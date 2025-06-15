@@ -65,3 +65,6 @@ plt.show()
 
 print("预测结果：", prediction)
 print("置信度：", confidence)
+
+
+# 我是呆瓜实习生，我现在在测试git的rules
