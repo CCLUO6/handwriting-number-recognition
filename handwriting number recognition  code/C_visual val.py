@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from A_mnist import load_mnist
 from B_train import TwoLayerNet
 
-
+# 20250615 we have a test, this is a test
 # 加载模型参数
 with open('model_params.pkl', 'rb') as f:
     params = pickle.load(f)
